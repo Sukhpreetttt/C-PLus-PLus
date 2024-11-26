@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// write a program to reverse a string using stack.
 char stack[50];
 int top = -1;
 
